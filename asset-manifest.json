@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/blackestate-react/static/css/main.098ad037.chunk.css",
-    "main.js": "/blackestate-react/static/js/main.3d39a5ea.chunk.js",
-    "main.js.map": "/blackestate-react/static/js/main.3d39a5ea.chunk.js.map",
+    "main.css": "/blackestate-react/static/css/main.ad48abb9.chunk.css",
+    "main.js": "/blackestate-react/static/js/main.a8158afb.chunk.js",
+    "main.js.map": "/blackestate-react/static/js/main.a8158afb.chunk.js.map",
     "runtime~main.js": "/blackestate-react/static/js/runtime~main.69603425.js",
     "runtime~main.js.map": "/blackestate-react/static/js/runtime~main.69603425.js.map",
     "static/js/2.c06ee85b.chunk.js": "/blackestate-react/static/js/2.c06ee85b.chunk.js",
     "static/js/2.c06ee85b.chunk.js.map": "/blackestate-react/static/js/2.c06ee85b.chunk.js.map",
     "index.html": "/blackestate-react/index.html",
-    "precache-manifest.5bee527b3a7d929f05db94ba5e5942df.js": "/blackestate-react/precache-manifest.5bee527b3a7d929f05db94ba5e5942df.js",
+    "precache-manifest.ba058b48211d864716378e32ee36613c.js": "/blackestate-react/precache-manifest.ba058b48211d864716378e32ee36613c.js",
     "service-worker.js": "/blackestate-react/service-worker.js",
-    "static/css/main.098ad037.chunk.css.map": "/blackestate-react/static/css/main.098ad037.chunk.css.map",
+    "static/css/main.ad48abb9.chunk.css.map": "/blackestate-react/static/css/main.ad48abb9.chunk.css.map",
     "static/media/page.styles.scss": "/blackestate-react/static/media/be.3013229d.png"
   }
 }
