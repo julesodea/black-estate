@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afadaff61e59910025fc1d18bff2439b",
+    "revision": "c229c4fb39060a16588f4ee79fcbfc88",
     "url": "/blackestate-react/index.html"
   },
   {

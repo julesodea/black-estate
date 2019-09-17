@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blackestate-react/precache-manifest.9d45486aa0bd0fafbcf73c161cafe44e.js"
+  "/blackestate-react/precache-manifest.41fe89138808d3cbd820069f150edc50.js"
 );
 
 self.addEventListener('message', (event) => {
