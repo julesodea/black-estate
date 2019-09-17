@@ -4,23 +4,23 @@ import { Link } from 'react-router-dom';
 
 function Nav() {
   const title = {
-    border: '3px solid rgb(27, 27, 27)',
-    padding: '0.5rem 0.8rem',
+    // border: '3px solid rgb(27, 27, 27)',
+    padding: '0.5rem 0rem',
     borderRadius: `1px`,
-    fontSize: '22px',
+    fontSize: '2rem',
     color: 'rgb(27, 27, 27)',
-    fontWeight: '600'
+    fontWeight: '800'
   };
   return (
     <nav>
       <ul>
-        <Link style={title} to="/" className="title">
+        <Link style={title} className="title" to="/" className="title">
           BLACK ESTATE
         </Link>
         <li>
-          <Link to="/contact">CONTACT</Link>
           <Link to="/about">ABOUT</Link>
           <Link to="/restaurant">RESTAURANT</Link>
+          <Link to="/contact">CONTACT</Link>
           <Link to="/store">STORE</Link>
         </li>
       </ul>

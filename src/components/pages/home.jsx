@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 // CSS
 import '../../App.css';
-import './page.styles.scss';
+import './home.styles.scss';
 
 function Home() {
   const Linkstyle = {
@@ -29,8 +29,18 @@ function Home() {
             </p>
           </div>
           <div>
-            <p className="medium">
-              Black Estate is a remarkable place for wine.
+            <p className="medium-three">
+              We're set on making our wines rue to the place they grow. The
+              winemaking is simple good estate grown fruit, organic &
+              biodynamic, handpicked, bineyard derived yeasts, no additives or
+              fining, minimal sulphur at bottling and where possible, no
+              filtration . Then we have character.
+            </p>
+          </div>
+          <div>
+            <p className="secondary">
+              <span className="bold">ADDRESS</span> <br /> 614 Omihi Road
+              Waipara Valley New Zealand
             </p>
             <p className="secondary">
               Visit our winery or order from our online store

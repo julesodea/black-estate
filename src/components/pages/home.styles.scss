@@ -5,7 +5,7 @@ section {
 
   h1 {
     color: rgb(27, 27, 27);
-    font-size: 3rem;
+    font-size: 2rem;
   }
   .background {
     width: 100%;
@@ -18,16 +18,26 @@ section {
   .contain {
     margin-top: 1rem;
     display: flex;
-    height: 30vh;
-    align-items: center;
-    max-width: 1280px;
-    margin: 0 auto;
+    height: 20vh;
 
+    max-width: 1280px;
+    margin: 1rem auto;
+    @media (max-width: 768px) {
+      height: 100%;
+      flex-wrap: wrap;
+    }
     div {
       display: flex;
       flex-direction: column;
       flex-wrap: wrap;
       width: 50%;
+      @media (max-width: 768px) {
+        width: 100%;
+        justify-content: center;
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+     
     }
 
     p {
@@ -47,19 +57,29 @@ section {
       font-weight: bold;
       width: 90%;
     }
+    p.medium-three {
+      font-size: 1.2rem;
+    }
     p.secondary {
       font-size: 18px;
       font-weight: 300;
       color: #6d6d6d;
     }
+    .bold {
+      font-weight: 600;
+      color: rgb(49, 49, 49);
+    }
     .links {
       width: 100%;
       display: flex;
-      justify-content: flex-start;
+      justify-content: flex-end;
       flex-direction: row;
     }
     a {
       margin-right: 1rem;
+      &:hover {
+        color: red;
+      }
     }
   }
 }

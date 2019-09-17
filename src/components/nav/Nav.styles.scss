@@ -3,6 +3,10 @@ nav {
   height: 10vh;
   max-width: 1280px;
   margin: 0 auto;
+  @media (max-width: 768px) {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
 
   ul {
     padding: 0;
@@ -14,11 +18,14 @@ nav {
     a {
       margin: 0;
       text-decoration: none;
-      font-weight: 400;
-      font-size: 12px;
+      font-weight: 800;
+      font-size: 14px;
       color: rgb(53, 53, 53);
       &:hover {
         color: rgb(134, 134, 134);
+      }
+      @media (max-width: 768px) {
+        font-size: 10px;
       }
     }
     li {
@@ -27,5 +34,10 @@ nav {
         margin-left: 1rem;
       }
     }
+  }
+}
+a.title {
+  @media (max-width: 768px) {
+    font-size: 20px !important;
   }
 }
