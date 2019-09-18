@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/blackestate-react/static/css/main.55d198d5.chunk.css",
-    "main.js": "/blackestate-react/static/js/main.2b8012d9.chunk.js",
-    "main.js.map": "/blackestate-react/static/js/main.2b8012d9.chunk.js.map",
-    "runtime~main.js": "/blackestate-react/static/js/runtime~main.69603425.js",
-    "runtime~main.js.map": "/blackestate-react/static/js/runtime~main.69603425.js.map",
-    "static/js/2.27908d51.chunk.js": "/blackestate-react/static/js/2.27908d51.chunk.js",
-    "static/js/2.27908d51.chunk.js.map": "/blackestate-react/static/js/2.27908d51.chunk.js.map",
-    "index.html": "/blackestate-react/index.html",
-    "precache-manifest.41fe89138808d3cbd820069f150edc50.js": "/blackestate-react/precache-manifest.41fe89138808d3cbd820069f150edc50.js",
-    "service-worker.js": "/blackestate-react/service-worker.js",
-    "static/css/main.55d198d5.chunk.css.map": "/blackestate-react/static/css/main.55d198d5.chunk.css.map",
-    "static/media/contact.styles.scss": "/blackestate-react/static/media/about.295a352d.jpg",
-    "static/media/home.styles.scss": "/blackestate-react/static/media/be.3013229d.png",
-    "static/media/restaurant.styles.scss": "/blackestate-react/static/media/restaurant.527029a6.jpg",
-    "static/media/about.styles.scss": "/blackestate-react/static/media/winery.b29cc23a.jpg"
+    "main.css": "/be/static/css/main.fbee6a1f.chunk.css",
+    "main.js": "/be/static/js/main.d17cec23.chunk.js",
+    "main.js.map": "/be/static/js/main.d17cec23.chunk.js.map",
+    "runtime~main.js": "/be/static/js/runtime~main.bd82bddc.js",
+    "runtime~main.js.map": "/be/static/js/runtime~main.bd82bddc.js.map",
+    "static/js/2.27908d51.chunk.js": "/be/static/js/2.27908d51.chunk.js",
+    "static/js/2.27908d51.chunk.js.map": "/be/static/js/2.27908d51.chunk.js.map",
+    "index.html": "/be/index.html",
+    "precache-manifest.f42ce9939a98b837aa65f673b0af4b30.js": "/be/precache-manifest.f42ce9939a98b837aa65f673b0af4b30.js",
+    "service-worker.js": "/be/service-worker.js",
+    "static/css/main.fbee6a1f.chunk.css.map": "/be/static/css/main.fbee6a1f.chunk.css.map",
+    "static/media/contact.styles.scss": "/be/static/media/about.295a352d.jpg",
+    "static/media/home.styles.scss": "/be/static/media/be.3013229d.png",
+    "static/media/restaurant.styles.scss": "/be/static/media/restaurant.527029a6.jpg",
+    "static/media/about.styles.scss": "/be/static/media/winery.b29cc23a.jpg"
   }
 }
