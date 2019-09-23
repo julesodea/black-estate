@@ -2,11 +2,7 @@
   "name": "blackestate",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": "https://julesodea.github.io/be",
-=======
-  "homepage": "https://julesodea.github.io/be/",
->>>>>>> 4ce585d6f510dff54ab071b7fae3eae98d6b01ce
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
