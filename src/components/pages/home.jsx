@@ -7,16 +7,7 @@ import '../../App.css';
 import './home.styles.scss';
 
 function Home() {
-  const Linkstyle = {
-    color: 'white',
-    background: 'rgb(40,40,40)',
-    borderRadius: '4px',
-    padding: '0.8rem 1.4rem',
-    textDecoration: 'none',
-    fontWeight: 'bold',
-    fontSize: '12px',
-    letterSpacing: '1px'
-  };
+  
   return (
     <div>
       <section>
@@ -37,19 +28,20 @@ function Home() {
               filtration . Then we have character.
             </p>
           </div>
-          <div>
+          <div class="container flex column j-c-b">
+            <h4>LOCATED AT</h4>
             <p className="secondary">
-              <span className="bold">ADDRESS</span> <br /> 614 Omihi Road
-              Waipara Valley New Zealand
-            </p>
-            <p className="secondary">
+              <a className='map' href="https://goo.gl/maps/E9et23PeTGW1EQpX8" target="_blank" rel="noopener noreferrer">  614 Omihi Road</a>
+            
+              Waipara Valley <br/>New Zealand
+        
               Visit our winery or order from our online store
             </p>
             <div className="links">
-              <Link style={Linkstyle} to="/restaurant">
+              <Link className="button" to="/restaurant">
                 RESTAURANT
               </Link>
-              <Link style={Linkstyle} to="/shop">
+              <Link className="button" to="/shop">
                 SHOP WINE
               </Link>
             </div>

@@ -8,21 +8,25 @@
 }
 section {
   .about-container {
-    max-width: 1280px;
+    max-width: 1000px;
     margin: 1rem auto;
+    padding: 2rem 0;
     display: flex;
     flex-wrap: wrap;
+    padding: 4rem 0;
     @media (max-width: 768px) {
       margin-left: 10px;
       margin-right: 10px;
     }
     h1.title {
       text-align: left;
+      padding: 2rem 0;
     }
   }
 
   p.about-text {
     font-size: 1.1rem;
+    padding: 1rem 0;
     margin-top: 1rem;
     color: #313131;
   }

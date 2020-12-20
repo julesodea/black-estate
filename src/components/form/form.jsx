@@ -30,8 +30,8 @@ class Form extends Component {
   render() {
     return (
       <form onSubmit={this.handleSubmit}>
-        <h2>Book a table</h2>
-        <label htmlFor="firstname">First Name</label>
+        <h1>Book a table</h1>
+
         <input
           placeholder="First Name"
           type="text"
@@ -39,7 +39,7 @@ class Form extends Component {
           value={this.state.firstname}
           onChange={this.handleChange}
         />
-        <label htmlFor="lastname">Last Name</label>
+
         <input
           placeholder="Last Name"
           type="lastname"
@@ -47,7 +47,7 @@ class Form extends Component {
           value={this.state.lastname}
           onChange={this.handleChange}
         />
-        <label htmlFor="email">Email</label>
+
         <input
           type="email"
           name="email"
@@ -55,7 +55,7 @@ class Form extends Component {
           value={this.state.email}
           onChange={this.handleChange}
         />
-        <label htmlFor="amount">How Many People:</label>
+
         <select
           name="amount"
           value={this.state.amount}
@@ -71,7 +71,7 @@ class Form extends Component {
           <option value="8">Eight or More (Please Call Us)</option>
         </select>
 
-        <label htmlFor="day">Day:</label>
+
         <select
           name="day"
           placeholder="day"
@@ -84,7 +84,7 @@ class Form extends Component {
           <option value="Saturday">Saturday</option>
           <option value="Sunday">Sunday</option>
         </select>
-        <label htmlFor="time">Time:</label>
+
         <select
           name="time"
           value={this.state.time}
@@ -105,7 +105,7 @@ class Form extends Component {
           <option value="16:00pm">16:00pm</option>
           <option value="16:30pm">16:30pm</option>
         </select>
-        <label htmlFor="comments">Comments</label>
+
         <input
           type="comments"
           name="comments"

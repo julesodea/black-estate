@@ -16,38 +16,38 @@ function Contact() {
             <div className="card-container">
               <div>
                 <div className="contact-card">
-                  <h2>ADDRESS</h2>
+                  <h3>ADDRESS</h3>
                   <p>
                     614 Omihi Road Waipara Valley, <br /> New Zealand
                   </p>
                   <p>+64 3 314 6085</p>
                 </div>
                 <div className="contact-card">
-                  <h2>EMAIL US</h2>
+                  <h3>EMAIL US</h3>
                   <p>Accommodation Booking</p>
                   <p>bookings@blackestate.co.nz</p>
                 </div>
               </div>
               <div>
                 <div className="contact-card">
-                  <h2>TASTING ROOM</h2>
+                  <h3>TASTING ROOM</h3>
                   <p>03 314 6085</p>
                   <p>bookings@blackestate.co.nz</p>
                 </div>
                 <div className="contact-card">
-                  <h2>OFFICE</h2>
+                  <h3>OFFICE</h3>
                   <p>03 314 6086</p>
                   <p>wine@blackestate.co.nz</p>
                 </div>
               </div>
               <div>
                 <div className="contact-card">
-                  <h2>MARKETING & SALES</h2>
+                  <h3>MARKETING & SALES</h3>
                   <p>Address</p>
                   <p>penelope@blackestate.co.nz</p>
                 </div>
                 <div className="contact-card">
-                  <h2>WINEMAKER</h2>
+                  <h3>WINEMAKER</h3>
                   <p>027 777 0631</p>
                   <p>nicolas@blackestate.co.nz</p>
                 </div>

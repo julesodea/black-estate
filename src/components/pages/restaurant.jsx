@@ -31,13 +31,15 @@ function Restaurant() {
             <p className="restaurant-text">
               We're Winery Restaurant of the Year and now have two hats with
               Cuisine Good Food Awards. <br />
-              <a
+             
+            </p>
+            <a
                 href="http://www.blackestate.co.nz/media/uploads/2018_08/Online_Menu_03_Aug.pdf"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 See Menu Here
               </a>
-            </p>
           </div>
           <Form />
         </section>
