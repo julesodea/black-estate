@@ -1,9 +1,8 @@
 import React from 'react';
-import '../../App.css';
 import { Link } from 'react-router-dom';
 
 // CSS
-import '../../App.css';
+
 import './home.styles.scss';
 
 function Home() {
