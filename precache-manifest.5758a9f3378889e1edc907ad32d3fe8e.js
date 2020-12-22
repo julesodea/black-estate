@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93ecaa3d5a4450a2d88d346aac6de3a3",
+    "revision": "c5de5697641d2edf29704eef101481e3",
     "url": "/black-estate/index.html"
   },
   {
-    "revision": "0ebc1e2ed577bcb2f14d",
-    "url": "/black-estate/static/css/main.efd3a216.chunk.css"
+    "revision": "dba618f3f238d87f0da3",
+    "url": "/black-estate/static/css/main.915197ee.chunk.css"
   },
   {
     "revision": "7beda20179fe953b3908",
     "url": "/black-estate/static/js/2.9f8aeee1.chunk.js"
   },
   {
-    "revision": "0ebc1e2ed577bcb2f14d",
+    "revision": "dba618f3f238d87f0da3",
     "url": "/black-estate/static/js/main.e2fc48c4.chunk.js"
   },
   {
