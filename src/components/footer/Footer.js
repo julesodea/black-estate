@@ -6,6 +6,21 @@ function Footer() {
   return (
     <footer>
       <ul>
+        <li className='title'>BLACK ESTATE © 2019</li>
+        <li>
+          <Link to='/contact'>PRIVACY POLICY</Link>
+        </li>
+        <li>
+          <Link to='/about'>TERMS & CONDITIONS</Link>
+        </li>
+        <li>
+          <Link to='/restaurant'>LIQUOR LICENSE</Link>
+        </li>
+        <li>
+          <Link to='/store'>VINEYARD</Link>
+        </li>
+      </ul>
+      <ul>
         <li className='title'>RESTAURANT</li>
         <li>
           <Link to='/contact'>OUR FOOD</Link>
@@ -33,21 +48,6 @@ function Footer() {
         </li>
         <li>
           <Link to='/store'>DELIVERY & RETURNS</Link>
-        </li>
-      </ul>
-      <ul>
-        <li className='title'>BLACK ESTATE © 2019</li>
-        <li>
-          <Link to='/contact'>PRIVACY POLICY</Link>
-        </li>
-        <li>
-          <Link to='/about'>TERMS & CONDITIONS</Link>
-        </li>
-        <li>
-          <Link to='/restaurant'>LIQUOR LICENSE</Link>
-        </li>
-        <li>
-          <Link to='/store'>VINEYARD</Link>
         </li>
       </ul>
     </footer>

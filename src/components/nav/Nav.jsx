@@ -14,7 +14,7 @@ function Nav() {
   return (
     <nav>
       <ul>
-        <Link style={title} className="title" to="/" className="title">
+        <Link style={title} className="title" to="/" >
           BLACK ESTATE
         </Link>
         <li>

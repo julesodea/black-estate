@@ -54,12 +54,15 @@ class Form extends Component {
           placeholder="Email"
           value={this.state.email}
           onChange={this.handleChange}
+          required={true}
         />
 
         <select
           name="amount"
           value={this.state.amount}
           onChange={this.handleChange}
+          required={true}
+
         >
           <option value="1">One</option>
           <option value="2">Two</option>
@@ -77,6 +80,8 @@ class Form extends Component {
           placeholder="day"
           value={this.state.day}
           onChange={this.handleChange}
+          required={true}
+
         >
           <option value="Wednesday">Wednesday</option>
           <option value="Thursday">Thursday</option>
@@ -89,6 +94,8 @@ class Form extends Component {
           name="time"
           value={this.state.time}
           onChange={this.handleChange}
+          required={true}
+
         >
           <option value="10:00am">10:00am</option>
           <option value="10:30am">10:30am</option>
