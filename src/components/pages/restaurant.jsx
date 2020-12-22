@@ -9,12 +9,12 @@ import './restaurant.styles.scss';
 function Restaurant() {
   return (
     <Router>
-      <div className="">
-        <div className="restaurant-background" />
+      <div className=''>
+        <div className='restaurant-background' />
         <section>
-          <div className="restaurant-container">
+          <div className='restaurant-container'>
             <h1>RESTAURANT</h1>
-            <p className="restaurant-text">
+            <p className='restaurant-text'>
               Our Home Vineyard, one of our three organic, hillside vineyards.
               We’re set on expressing the true character of each of our Home,
               Netherwood and Damsteep vineyards. That means healthy organic
@@ -28,18 +28,17 @@ function Restaurant() {
               vegetables and fruit, and the animals were free range and well
               looked after.
             </p>
-            <p className="restaurant-text">
+            <p className='restaurant-text'>
               We're Winery Restaurant of the Year and now have two hats with
               Cuisine Good Food Awards. <br />
-             
             </p>
             <a
-                href="http://www.blackestate.co.nz/media/uploads/2018_08/Online_Menu_03_Aug.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                See Menu Here
-              </a>
+              href='http://www.blackestate.co.nz/media/uploads/2018_08/Online_Menu_03_Aug.pdf'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              See Menu Here
+            </a>
           </div>
           <Form />
         </section>
