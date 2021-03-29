@@ -13,8 +13,12 @@ nav {
     margin: 0;
     height: 10vh;
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    @media (max-width: 768px) {
+      justify-content: center;
+    }
     a {
       margin: 0;
       text-decoration: none;

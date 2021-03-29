@@ -27,7 +27,7 @@ function Home() {
               filtration . Then we have character.
             </p>
           </div>
-          <div class='container flex column j-c-b'>
+          <div className='container flex column j-c-b'>
             <h4>LOCATED AT</h4>
             <p className='secondary'>
               <a
