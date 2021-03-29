@@ -6,6 +6,7 @@ nav {
   @media (max-width: 768px) {
     margin-right: 10px;
     margin-left: 10px;
+    height: 15vh;
   }
 
   ul {
@@ -42,6 +43,6 @@ nav {
 }
 a.title {
   @media (max-width: 768px) {
-    font-size: 16px !important;
+    font-size: 22px;
   }
 }
