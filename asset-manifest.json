@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/black-estate/static/css/main.79cac142.chunk.css",
+    "main.css": "/black-estate/static/css/main.b74f82cb.chunk.css",
     "main.js": "/black-estate/static/js/main.96953418.chunk.js",
     "main.js.map": "/black-estate/static/js/main.96953418.chunk.js.map",
     "runtime~main.js": "/black-estate/static/js/runtime~main.b4471172.js",
@@ -8,9 +8,9 @@
     "static/js/2.fcb66820.chunk.js": "/black-estate/static/js/2.fcb66820.chunk.js",
     "static/js/2.fcb66820.chunk.js.map": "/black-estate/static/js/2.fcb66820.chunk.js.map",
     "index.html": "/black-estate/index.html",
-    "precache-manifest.a3dbb0c77ca61ee831b835fbb7da80e9.js": "/black-estate/precache-manifest.a3dbb0c77ca61ee831b835fbb7da80e9.js",
+    "precache-manifest.19f1b08cdb8c3e6658768ba46ee37135.js": "/black-estate/precache-manifest.19f1b08cdb8c3e6658768ba46ee37135.js",
     "service-worker.js": "/black-estate/service-worker.js",
-    "static/css/main.79cac142.chunk.css.map": "/black-estate/static/css/main.79cac142.chunk.css.map",
+    "static/css/main.b74f82cb.chunk.css.map": "/black-estate/static/css/main.b74f82cb.chunk.css.map",
     "static/media/contact.styles.scss": "/black-estate/static/media/about.295a352d.jpg",
     "static/media/home.styles.scss": "/black-estate/static/media/be.3013229d.png",
     "static/media/restaurant.styles.scss": "/black-estate/static/media/restaurant.527029a6.jpg",
