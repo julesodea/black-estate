@@ -6,10 +6,10 @@ footer {
   padding-bottom: 1rem;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   @media (max-width: 768px) {
-    margin-left: 10px;
+    margin: 1rem;
     flex-direction: column;
-    margin-right: 10px;
   }
   ul {
     display: flex;
